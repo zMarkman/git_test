@@ -1,0 +1,1 @@
+This text was added so that I could modify the file and practice adding files to staging, then committing them. 
